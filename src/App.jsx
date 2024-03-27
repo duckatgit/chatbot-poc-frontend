@@ -1,11 +1,10 @@
 import React from 'react'
-import Input from './Input'
+import Chatbot from './components/Chatbot'
+
 
 function App() {
   return (
-    <>
-      <Input/>
-    </>
+      <Chatbot/>
   )
 }
 
